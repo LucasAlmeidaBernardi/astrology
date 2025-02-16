@@ -1,0 +1,2 @@
+# astrology
+An astrology application
